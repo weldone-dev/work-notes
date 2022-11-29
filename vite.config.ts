@@ -13,14 +13,24 @@ export default defineConfig({
         name: "Note Work",
         icons: [
           {
-            src: "favicon.ico",
+            src: "favicon.png",
             sizes: "64x64 32x32 24x24 16x16",
             type: "image/png"
+          },
+          {
+            src: "logo128.png",
+            type: "image/png",
+            sizes: "128x128"
           },
           {
             src: "logo192.png",
             type: "image/png",
             sizes: "192x192"
+          },
+          {
+            src: "logo256.png",
+            type: "image/png",
+            sizes: "256x256"
           },
           {
             src: "logo512.png",
