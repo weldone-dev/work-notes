@@ -1,6 +1,6 @@
 # Note Work 
 
-- Demo: [View site](https://weldone-dev.github.io/note-work)
+- Demo: [View site](https://weldone-dev.github.io/work-notes)
 
 This app is designed to be used as markdown notes
 
