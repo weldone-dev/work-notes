@@ -1,0 +1,19 @@
+.App {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.App .wrapper {
+    height: calc(100vh - 3.5rem);
+    overflow-y: auto;
+}
+
+.App .wrapper::-webkit-scrollbar {
+    width: 2px;
+    border-radius: 2em;
+}
+
+.App .wrapper::-webkit-scrollbar-thumb {
+    background: #aaa;
+    border-radius: 2em;
+}
